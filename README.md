@@ -1,2 +1,2 @@
-# YouTube_App
-YouTube app made using Flutter
+# FlutterTube_App
+Video Playing app made using Flutter
